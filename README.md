@@ -14,6 +14,14 @@
 <a> <img src="https://icongr.am/devicon/apple-original.svg?size=50&color=currentColor" alt="ios"/> </a> 
 <a> <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="javascript"/> </a>
 
+### I'm a gamer and you could find me on:
+
+<a href="<your-steam-profile-link>" target="blank"><img align="center" src="https://github.com/Tuthuyvongan/Tuthuyvongan/blob/main/Icons/steam.png" height="40" /></a>
+<a href="<your-league-of-legends-profile-link>" target="blank"><img align="center" src="https://github.com/Tuthuyvongan/Tuthuyvongan/blob/main/Icons/leagueoflegends.png" height="40" /></a>
+<a href="<your-valorant-profile-link>" target="blank"><img align="center" src="https://github.com/Tuthuyvongan/Tuthuyvongan/blob/main/Icons/honkai.png" height="40" /></a>
+<a href="<your-genshin-profile-link>" target="blank"><img align="center" src="https://github.com/Tuthuyvongan/Tuthuyvongan/blob/main/Icons/genshin.png" height="40" /></a>
+<a href="<your-honkai-profile-link>" target="blank"><img align="center" src="https://github.com/Tuthuyvongan/Tuthuyvongan/blob/main/Icons/starrail.png" height="40" /></a>
+
 ## My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tuthuyvongan&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Tuthuyvongan" width="700">
