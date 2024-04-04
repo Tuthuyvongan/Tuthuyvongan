@@ -4,8 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Tuthuyvongan?tab=repositories).
 
-- 📫 You can reach me at: `<your-email>`
-
 ### My strengths are:
 
 <p align="left"> 
@@ -14,9 +12,7 @@
 <a> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" alt="react"/> </a> 
 <a> <img src="https://icongr.am/devicon/android-original-wordmark.svg?size=50&color=currentColor" alt="android"/> </a>
 <a> <img src="https://icongr.am/devicon/apple-original.svg?size=50&color=currentColor" alt="ios"/> </a> 
-<a> <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="javascript"/> </a> 
-<a> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" alt="react native"/> </a> 
-</p>
+<a> <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="javascript"/> </a>
 
 ## My GitHub Stats
 
