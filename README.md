@@ -15,8 +15,6 @@
 <a> <img src="https://icongr.am/devicon/android-original-wordmark.svg?size=50&color=currentColor" alt="android"/> </a>
 <a> <img src="https://icongr.am/devicon/apple-original.svg?size=50&color=currentColor" alt="ios"/> </a> 
 <a> <img src="https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor" alt="javascript"/> </a> 
-<a> <img src="https://icongr.am/devicon/microsoftsqlserver-plain-wordmark.svg?size=50&color=currentColor" alt="sqlserver"/> </a> 
-<a> <img src="https://icongr.am/devicon/expo-original.svg?size=50&color=currentColor" alt="expo"/> </a> 
 <a> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor" alt="react native"/> </a> 
 </p>
 
