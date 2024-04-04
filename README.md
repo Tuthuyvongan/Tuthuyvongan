@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Anh Thu 👋
 
-- I’m Anh Thu, currently based in Vietnam. I’ve had the opportunity to work with a variety of technologies including SQL, MySQL, Expo, React Native.
+- I’m Anh Thu, currently based in Vietnam. I’ve had the opportunity to work with a variety of technologies including SQL, MySQL, Expo, React Native, JavaScript, and C#.NET.
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/Tuthuyvongan?tab=repositories).
 
